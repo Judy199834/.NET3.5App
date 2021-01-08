@@ -1,0 +1,12 @@
+\\vsdbgqa\CTIResources\VSDiag\Heatmap\Features\Debugger\Visualizer\VisualizerTesting\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\bin\Debug\PrimeSieves_DotNet35.dll
+\\vsdbgqa\CTIResources\VSDiag\Heatmap\Features\Debugger\Visualizer\VisualizerTesting\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\bin\Debug\PrimeSieves_DotNet35.pdb
+\\vsdbgqa\CTIResources\VSDiag\Heatmap\Features\Debugger\Visualizer\VisualizerTesting\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_3.5.csprojResolveAssemblyReference.cache
+\\vsdbgqa\CTIResources\VSDiag\Heatmap\Features\Debugger\Visualizer\VisualizerTesting\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_3.5.csproj.CoreCompileInputs.cache
+\\vsdbgqa\CTIResources\VSDiag\Heatmap\Features\Debugger\Visualizer\VisualizerTesting\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_DotNet35.dll
+\\vsdbgqa\CTIResources\VSDiag\Heatmap\Features\Debugger\Visualizer\VisualizerTesting\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_DotNet35.pdb
+C:\Users\vsdiagtester\Desktop\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\bin\Debug\PrimeSieves_DotNet35.dll
+C:\Users\vsdiagtester\Desktop\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\bin\Debug\PrimeSieves_DotNet35.pdb
+C:\Users\vsdiagtester\Desktop\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_3.5.csprojAssemblyReference.cache
+C:\Users\vsdiagtester\Desktop\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_3.5.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\Desktop\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_DotNet35.dll
+C:\Users\vsdiagtester\Desktop\.NET 3.5 App\PrimeVisualizer\PrimeSieves_DotNet35\obj\Debug\PrimeSieves_DotNet35.pdb

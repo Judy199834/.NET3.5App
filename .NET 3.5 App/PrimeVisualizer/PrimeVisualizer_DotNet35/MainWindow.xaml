@@ -1,0 +1,29 @@
+﻿<Window x:Class="PrimeVisualizer_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <!-- Row 0 -->
+        <Button Grid.Row="0" Grid.Column="0" Content="Generate" Height="23" Name="generate_Button" Width="75" Click="generate_Button_Click" />
+
+        <Label Grid.Column="1" Content="Min:" Height="28" Margin="2,2,0,2" Name="min_Label" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Grid.Column="1" Height="23" Margin="41,4,4,4" Name="min_TextBox" Text="{Binding ElementName=_this, Path=Min}" />
+
+        <Label Grid.Column="2" Content="Max:" Height="28" Margin="2,2,0,2" Name="max_Label" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Grid.Column="2" Height="23" Margin="41,4,4,4" Name="max_TextBox" Text="{Binding ElementName=_this, Path=Max}" />
+
+        <!-- Row 1 -->
+        <ScrollViewer Grid.Row="1" Grid.ColumnSpan="4" Name="scroller" VerticalScrollBarVisibility="Auto" >
+            <WrapPanel Name="primeNumberDisplay"/>
+        </ScrollViewer>
+    </Grid>
+</Window>

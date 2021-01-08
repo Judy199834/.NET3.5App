@@ -1,0 +1,29 @@
+{
+    "name":"China",
+    "province":[
+    {
+       "name":"helongjiang",
+        "cities":{
+            "city":["haerbin","dating"]
+        }
+     },
+     {
+        "name":"guangdong",
+        "cities":{
+            "city":["zhou","shenzhen","zhuhai"]
+        }
+    },
+    {
+        "name":"taiyuan",
+        "cities":{
+            "city":["taibei","gaoxiong"]
+        }
+    },
+    {
+        "name":"xinjiang",
+        "cities":{
+            "city":["wulmuq"]
+        }
+    }
+]
+}
